@@ -40,8 +40,8 @@
 }
 
 .buttons-container a {
-  width: 30rem;
-  height: 10.4rem;
+  width: 29rem;
+  height: 9rem;
   border-radius: 0.8rem;
   margin-right: 1.6rem;
   font: 700 2rem Archivo;
@@ -80,8 +80,8 @@
   background: var(--color-secundary-dark);
 }
 
-.buttons-container a img{
-    margin-right: 2rem;
+.buttons-container a img {
+  margin-right: 2rem;
 }
 
 .total-connections {
@@ -118,11 +118,11 @@
 
 .logo-container h2 {
   text-align: initial;
-  font-size: 2.0rem;
+  font-size: 2rem;
 }
 
-.logo-container img{
-    height: 100%;
+.logo-container img {
+  height: 100%;
 }
 
 .hero-image {
@@ -135,9 +135,9 @@
   justify-content: flex-start;
 }
 
-.buttons-container a{
-    font-size: 2rem;
-    text-align: left;
+.buttons-container a {
+  font-size: 2rem;
+  text-align: left;
 }
 
 .total-connections {
